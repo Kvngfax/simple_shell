@@ -1,1 +1,1 @@
-This project is done bytwo people. Simple shell project
+# 0x16-simple_shell
